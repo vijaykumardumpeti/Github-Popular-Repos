@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.language {
+  font-size: 22px;
+  font-family: 'Lobster';
+}
+.button-styling {
+  background-color: transparent;
+  border: 0px none transparent;
+  font-size: 22px;
+  font-family: 'lobster';
+}
+.style-for-button {
+  background-color: transparent;
+  border: 2px solid #0284c7;
+  border-radius: 7px;
+}
