@@ -15,7 +15,7 @@ export default class RepositoryItem extends Component {
             alt="stars"
             src="https://assets.ccbp.in/frontend/react-js/stars-count-img.png"
           />
-          <p1>{starsCount} stars</p1>
+          <p>{starsCount} stars</p>
         </div>
         <div className="small-container">
           <img
